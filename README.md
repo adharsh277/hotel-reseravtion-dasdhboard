@@ -7,6 +7,7 @@ This project showcases a **Power BI dashboard** built to analyze hotel reservati
 The analysis uncovers valuable insights into booking trends, cancellations, and operational metrics, enabling data-driven decision-making in the hospitality industry.
 
 <br>
+
 ## **Power BI Dashboard Snapshots**
 The dashboard provides comprehensive insights across the following pages:
 1. **Overview Page**: Displays key metrics such as total bookings, lead times, and monthly trends.  
